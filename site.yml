@@ -6,4 +6,4 @@
       prompt: "Enter the hostname for virtualhost"
       private: no
   roles:
-    - apache
+    - apache 
