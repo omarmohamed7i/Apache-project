@@ -1,0 +1,6 @@
+---
+apache_user: "apache"
+apache_group: "apache"
+http_port: 80
+https_port: 443
+custom_port: 88
