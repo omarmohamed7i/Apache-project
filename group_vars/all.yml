@@ -1,0 +1,8 @@
+---
+selinux_port: 88
+allowed_ip: "192.168.116.129"  
+ssl_certificate: "/etc/pki/tls/certs/localhost.crt"
+ssl_certificate_key: "/etc/pki/tls/private/localhost.key"
+htpasswd_users:
+  - user: "admin"
+    pass: "123"
