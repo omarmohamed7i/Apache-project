@@ -17,7 +17,7 @@
   Clone the repository:
   Bash
 
-  git clone https://github.com/your_username/ansible-virtual-hosts.git
+  git clone https://github.com/omarmohamed7i/Apache-project.git
 
 
 ### Edit the inventory file:
